@@ -1,7 +1,7 @@
 {
-  "name": "bitandbang",
+  "name": "mukulrajpoot262610",
   "version": "2.1.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Mukul Rajpoot (@mukulrajpoot262610)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bnb/bitandbang.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://mukulrajpoot.com",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Mukul Rajpoot <mukulrajpoot262610@gmail.com> (https://mukulrajpoot.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
